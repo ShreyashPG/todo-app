@@ -7,7 +7,7 @@ import Navbar from './components/navbar'
 import Todos from './components/todos'
 
 const App=()=> {
-  const [count, setCount] = useState(0)
+
 
   return (
     <main>
