@@ -6,6 +6,12 @@
     box-sizing: border-box;
     /*font-family: 'Lexend Deca', sans-serif;*/
     font-family: 'Urbanist', sans-serif;
+     /* display: flex;  */
+     /* flex-direction: column;  */
+     align-items: center; 
+     justify-content: center; 
+    /* min-height: 100vh; */
+    /* margin-top: 10rem; */
 }
 
 
